@@ -1,9 +1,4 @@
 this is a first text
-blhaaaaaaaaaaaaaaaaaaaaaa
+blhaaaaaaaaaaaaaaaaaaa
 
-
-
-
-third update. testing push command
-
-we can use this one for updates.
+testing pull and test command
